@@ -1,0 +1,1 @@
+Portfolio website built by me, wrote all html & css from scratch; background pattern 'skulls' from subtlebackgrounds.com  
